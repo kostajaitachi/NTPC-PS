@@ -1,0 +1,20 @@
+To run the GUI
+double click on BComit.bat
+
+To send continius messages with rescheduling
+double click on Send.bat
+
+Database Connectivity
+open Control Panel/administrative tools/ODBC Sources/
+1.
+go to add tab and give the path as C:/SMS MANAGER/DATA.accdb
+give the source name as DATA 
+
+if you are not able to find MS Access driver for mdb.*,accdb.* then follow - 
+go to C:/Windows/SysWOW64/odbcad32.exe
+and follow the step number 1
+
+In case of any doubt to: 
+contact:
+Prakhar Gupta, 9542514041, prakhar.bits059@gmail.com
+Jobanpreet Singh,9672017999, jobanpreet299@gmail.com

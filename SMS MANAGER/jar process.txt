@@ -1,0 +1,5 @@
+Manifest
+create,merge,entry, frame
+jar cfm MyJar.jar Manifest.txt MyPackage/*.class
+
+jar cfe Main.jar foo.Main foo/Main.class
